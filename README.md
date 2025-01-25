@@ -10,7 +10,7 @@
 
 ### Languages
 [![BDFD](https://images.weserv.nl/?url=https://github.com/NilPointer-Software/bdfd-wiki/blob/dev/src/theme/favicon.png?raw=true?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://botdesignerdiscord.com)
-[![Lua](https://images.weserv.nl/?url=https://www.lua.org/images/logo.gif?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://botdesignerdiscord.com)
+[![Lua](https://images.weserv.nl/?url=https://www.lua.org/images/logo.gif?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://www.lua.org/home.html)
 
 ### Connections
 [![YouTbe](https://images.weserv.nl/?url=https://freelogopng.com/images/all_img/1656501465youtube-png.png?h=50&w=50)](https://www.youtube.com/@blackdevstudios5949)
